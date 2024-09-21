@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">"Isaiah 41:10"</h3>
 
+![](https://komarev.com/ghpvc/?username=bealugirma23)
+
 - 🔭 working on **My self**
 
 - 📄 Website [https://bealugirma.vercel.app/](https://bealugirma.vercel.app/)
   
 - 📄 Blog [https://blog-bealu.vercel.app/](https://blog-bealu.vercel.app/)
-  
-![](https://komarev.com/ghpvc/?username=bealugirma23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
