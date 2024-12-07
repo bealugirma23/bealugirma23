@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, i'm Bealu</h1>
+<h1 align="left">Hi 👋, i'm Bealu</h1>
 
 ![](https://komarev.com/ghpvc/?username=bealugirma23)
 
