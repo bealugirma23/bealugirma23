@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">"Isaiah 41:10"</h3>
+<h1 align="center">Hi 👋, i'm Bealu</h1>
 
 ![](https://komarev.com/ghpvc/?username=bealugirma23)
 
